@@ -18,8 +18,8 @@ import math
 RISK = 1
 
 # bot credentials for Investopedia.com
-EMAIL_ADDRESS = "apghkkdgvdbfwfirhw@awdrt.com"
-PASSWORD = "PHFT@!@!"
+EMAIL_ADDRESS = "example@example.com"
+PASSWORD = "password"
 
 # create a bot instance
 bot = paperhft.InvestopediaBot(EMAIL_ADDRESS, PASSWORD)
