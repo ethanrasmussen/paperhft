@@ -11,5 +11,5 @@ PaperHFT is a Python package intended to provide a framework for building algori
 * Interface with more paper trading websites (like WallStreetSurvivor & MarketWatch)
 * Add the ability to open and close short stock positions & open long option positions (short option positions likely won't be possibly on simulators)
 
-### Documentation:
-#### In progress!
+## Documentation/Wiki:
+[Right here!](https://github.com/ethanrasmussen/paperhft/wiki)
